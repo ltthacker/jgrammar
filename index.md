@@ -4,10 +4,19 @@
 
 [Common pronouns](pronouns/common.md) 
 
+[General pronouns](pronouns/general_pronouns.md) 
+
 ## Particle
 
 [Object particle](particle/object_particle.md)
 
+[Directional particle](particle/directional_particle.md)
+
+[Location and Time particle](particle/location_and_time_particle.md)
+
+## Verbs
+
+[The verb あります and います](verbs/have.md)
 
 ## Unsorted
 

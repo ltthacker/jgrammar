@@ -9,3 +9,4 @@ Unlike English, the location of the verbs are usually at the end of the sentence
 |水|を|飲みます。|I drink water.|
 |魚|を|食べます。|I eat fish.|
 
+[Practice](https://www.duolingo.com/skill/ja/Food-1/tips-and-notes)

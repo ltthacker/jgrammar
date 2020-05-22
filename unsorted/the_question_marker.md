@@ -8,3 +8,4 @@ If the sentences end in ～です, it is easy to formulate question by using ～
 |アメリカ人です。|アメリカ人ですか?|
 |学生です。      |がくせいですか?  |
 
+[Practice](https://www.duolingo.com/skill/ja/Introduction-2/tips-and-notes)
