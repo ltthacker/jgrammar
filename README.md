@@ -18,6 +18,10 @@
 
 [The verb あります and います](verbs/have.md)
 
+## Counting
+
+[Counting birds TODO](https://www.duolingo.com/skill/ja/Home-1/tips-and-notes)
+
 ## Unsorted
 
 [Basic grammar](unsorted/basic_grammar.md)
